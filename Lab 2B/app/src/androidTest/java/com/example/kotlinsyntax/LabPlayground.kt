@@ -1,7 +1,7 @@
 package com.example.kotlinsyntax
 
 fun main(args: Array<String>){
-
+    println("Adrian")
     typeInference()
     usingUnderscores()
     booleansAndCharacters()
